@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 8C06-AB98
+
+ Directory of C:\Users\Aarush\Desktop\JavaProgram
+
+08/17/2018  04:08 PM    <DIR>          .
+08/17/2018  04:08 PM    <DIR>          ..
+08/17/2018  04:08 PM                 0 abhishek.txt
+08/17/2018  02:18 PM               674 hello.class
+08/12/2018  06:06 PM               174 hello.java
+               3 File(s)            848 bytes
+               2 Dir(s)  123,158,528,000 bytes free
